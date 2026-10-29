@@ -1,0 +1,1001 @@
+student_id,student_name,department,semester,marks,attendance_percentage,backlogs,fees_paid,placement_status
+1001,Aditya Singh,CSE,3,69,78,1,Yes,Placed
+1002,Riya Rana,IT,7,68,92,1,Yes,Not Placed
+1003,Aadhya Bhatt,CSE,1,85,77,1,No,Not Placed
+1004,Aditya Nair,CSE,4,85,82,1,Yes,Not Placed
+1005,Krishna Shah,ECE,7,67,66,2,Yes,Placed
+1006,Anika Parmar,IT,8,68,89,0,Yes,Not Placed
+1007,Rahul Singh,Civil,3,82,100,1,Yes,Not Placed
+1008,Priya Singh,CSE,6,62,89,1,Yes,Not Placed
+1009,Anika Mehta,ECE,2,68,97,0,Yes,Placed
+1010,Nisha Chauhan,IT,1,75,74,0,Yes,Placed
+1011,Anika Prajapati,ECE,3,88,84,0,Yes,Placed
+1012,Ayaan Pandya,IT,8,66,73,0,Yes,Not Placed
+1013,Amit Iyer,IT,6,48,80,1,Yes,Placed
+1014,Aadhya Dave,Civil,4,47,90,0,Yes,Not Placed
+1015,Kavya Rana,CSE,3,56,83,1,Yes,Placed
+1016,Saanvi Joshi,CSE,2,56,68,1,Yes,Not Placed
+1017,Aditya Gupta,ECE,3,72,69,0,Yes,Placed
+1018,Meera Shah,Mechanical,2,57,68,0,Yes,Not Placed
+1019,Nisha Dave,CSE,2,64,87,1,Yes,Not Placed
+1020,Shaurya Iyer,IT,6,63,100,2,Yes,Placed
+1021,Reyansh Singh,Mechanical,2,68,96,1,Yes,Not Placed
+1022,Priya Prajapati,ECE,1,93,63,2,Yes,Placed
+1023,Aditya Parmar,Civil,5,83,96,0,Yes,Placed
+1024,Saanvi Bhatt,IT,3,74,91,0,Yes,Placed
+1025,Neha Singh,ECE,4,68,67,1,Yes,Not Placed
+1026,Rahul Desai,CSE,2,68,79,0,Yes,Not Placed
+1027,Ananya Chauhan,Civil,2,79,93,1,No,Placed
+1028,Pari Patel,IT,4,82,88,0,Yes,Placed
+1029,Kavya Desai,ECE,6,61,69,0,Yes,Placed
+1030,Rahul Nair,IT,4,75,88,0,Yes,Placed
+1031,Dev Kumar,IT,5,46,61,1,Yes,Not Placed
+1032,Ananya Parmar,ECE,5,77,80,2,Yes,Not Placed
+1033,Aadhya Modi,IT,3,85,93,0,Yes,Placed
+1034,Dev Prajapati,Civil,3,70,82,1,Yes,Placed
+1035,Aditya Chauhan,IT,4,99,77,0,Yes,Placed
+1036,Amit Desai,ECE,1,62,91,2,Yes,Not Placed
+1037,Saanvi Mehta,CSE,6,77,92,1,Yes,Not Placed
+1038,Neha Chauhan,IT,5,73,95,0,No,Placed
+1039,Atharv Joshi,IT,3,73,91,0,No,Placed
+1040,Kavya Nair,CSE,3,72,93,0,Yes,Placed
+1041,Yash Rana,CSE,3,75,89,0,Yes,Placed
+1042,Reyansh Dave,ECE,6,86,85,0,Yes,Placed
+1043,Ira Kumar,ECE,7,93,83,0,Yes,Not Placed
+1044,Aditya Modi,ECE,1,74,80,0,Yes,Placed
+1045,Amit Dave,CSE,4,85,70,2,Yes,Not Placed
+1046,Saanvi Dave,CSE,1,64,72,0,No,Not Placed
+1047,Nisha Prajapati,CSE,4,85,79,1,Yes,Placed
+1048,Meera Trivedi,Mechanical,2,63,84,0,Yes,Not Placed
+1049,Ishaan Nair,Mechanical,3,89,96,0,Yes,Placed
+1050,Riya Mehta,CSE,4,100,82,0,Yes,Placed
+1051,Karan Desai,ECE,3,72,92,0,Yes,Placed
+1052,Karan Patel,CSE,4,43,93,0,Yes,Not Placed
+1053,Amit Singh,CSE,7,66,80,0,Yes,Not Placed
+1054,Amit Nair,CSE,7,91,88,0,Yes,Placed
+1055,Pari Kumar,CSE,1,82,80,1,Yes,Not Placed
+1056,Shaurya Singh,ECE,4,77,95,0,Yes,Not Placed
+1057,Kavya Chauhan,Civil,7,88,88,1,Yes,Not Placed
+1058,Anika Gupta,CSE,5,81,70,0,Yes,Not Placed
+1059,Vivaan Mehta,IT,2,91,84,0,Yes,Placed
+1060,Ishaan Mehta,ECE,5,87,98,0,Yes,Placed
+1061,Saanvi Nair,Civil,2,95,80,0,Yes,Not Placed
+1062,Riya Chauhan,ECE,1,79,86,0,Yes,Placed
+1063,Nisha Gupta,CSE,6,87,87,0,Yes,Placed
+1064,Aditya Singh,ECE,5,70,72,2,Yes,Not Placed
+1065,Myra Iyer,CSE,7,66,87,0,Yes,Not Placed
+1066,Kavya Gupta,Civil,3,98,68,0,Yes,Not Placed
+1067,Aditya Gupta,IT,7,77,76,2,Yes,Not Placed
+1068,Amit Modi,ECE,4,85,93,0,Yes,Placed
+1069,Ira Patel,CSE,6,76,86,0,No,Placed
+1070,Ananya Rana,IT,1,66,79,2,Yes,Placed
+1071,Jiya Joshi,Mechanical,1,74,86,0,Yes,Placed
+1072,Shaurya Rana,ECE,7,94,81,0,Yes,Placed
+1073,Jiya Bhatt,IT,7,82,82,2,Yes,Not Placed
+1074,Vivaan Joshi,Civil,8,50,89,0,Yes,Not Placed
+1075,Karan Shah,Mechanical,3,71,75,1,Yes,Not Placed
+1076,Nisha Trivedi,CSE,1,99,82,1,Yes,Not Placed
+1077,Dev Trivedi,IT,8,71,79,1,Yes,Not Placed
+1078,Saanvi Nair,IT,5,49,66,0,Yes,Not Placed
+1079,Arjun Gupta,ECE,2,100,73,0,Yes,Not Placed
+1080,Anika Singh,CSE,7,84,98,0,Yes,Not Placed
+1081,Jiya Nair,CSE,8,73,86,0,No,Not Placed
+1082,Aadhya Rana,Civil,3,69,69,1,Yes,Placed
+1083,Aadhya Dave,Civil,7,89,67,0,Yes,Not Placed
+1084,Atharv Desai,Mechanical,7,66,81,0,Yes,Not Placed
+1085,Ananya Patel,Civil,5,90,98,0,Yes,Not Placed
+1086,Arjun Shah,ECE,6,82,80,2,Yes,Not Placed
+1087,Amit Kumar,Mechanical,3,77,95,1,Yes,Not Placed
+1088,Neha Chauhan,Mechanical,8,76,86,1,Yes,Not Placed
+1089,Priya Desai,IT,8,72,87,0,Yes,Not Placed
+1090,Dev Verma,IT,8,89,69,0,Yes,Placed
+1091,Yash Desai,CSE,6,62,91,2,Yes,Placed
+1092,Pari Nair,ECE,1,51,79,0,No,Not Placed
+1093,Pari Rana,CSE,3,83,91,2,Yes,Not Placed
+1094,Reyansh Prajapati,CSE,4,83,74,1,Yes,Not Placed
+1095,Ishaan Modi,IT,8,81,84,0,Yes,Placed
+1096,Neha Iyer,IT,5,80,86,0,Yes,Not Placed
+1097,Ira Prajapati,CSE,5,70,80,2,No,Not Placed
+1098,Yash Shah,Mechanical,2,85,86,0,Yes,Placed
+1099,Ananya Mehta,Mechanical,7,73,79,0,Yes,Placed
+1100,Ananya Parmar,CSE,3,67,76,0,Yes,Not Placed
+1101,Ananya Pandya,CSE,1,70,98,0,Yes,Placed
+1102,Pari Nair,CSE,8,100,92,0,Yes,Placed
+1103,Saanvi Trivedi,Mechanical,2,50,74,0,No,Not Placed
+1104,Rahul Parmar,Mechanical,1,81,88,0,Yes,Placed
+1105,Ishaan Singh,CSE,1,50,75,0,Yes,Not Placed
+1106,Ishaan Kumar,Mechanical,4,72,70,1,Yes,Not Placed
+1107,Amit Rana,CSE,1,68,92,1,Yes,Placed
+1108,Rahul Trivedi,IT,7,45,65,0,No,Not Placed
+1109,Aditya Shah,Civil,5,79,91,0,Yes,Placed
+1110,Saanvi Pandya,CSE,3,69,79,0,Yes,Not Placed
+1111,Arjun Chauhan,CSE,1,45,80,1,Yes,Not Placed
+1112,Priya Joshi,IT,4,86,86,0,Yes,Placed
+1113,Priya Modi,ECE,2,94,88,0,Yes,Placed
+1114,Karan Gupta,Civil,8,95,74,0,Yes,Not Placed
+1115,Kavya Desai,Civil,3,79,89,0,Yes,Placed
+1116,Saanvi Bhatt,CSE,4,75,83,1,Yes,Placed
+1117,Aarav Singh,CSE,1,93,69,0,Yes,Not Placed
+1118,Pari Kumar,Mechanical,2,98,80,1,Yes,Not Placed
+1119,Riya Rana,CSE,2,90,96,1,Yes,Not Placed
+1120,Atharv Iyer,Mechanical,1,61,99,0,Yes,Not Placed
+1121,Reyansh Gupta,ECE,6,77,89,1,Yes,Not Placed
+1122,Aditya Iyer,CSE,8,80,70,0,Yes,Not Placed
+1123,Ira Shah,Mechanical,8,49,87,2,Yes,Not Placed
+1124,Rahul Rana,CSE,3,81,91,0,Yes,Placed
+1125,Amit Patel,IT,7,100,89,0,Yes,Placed
+1126,Ayaan Chauhan,IT,5,83,90,1,Yes,Not Placed
+1127,Ayaan Modi,IT,1,95,86,0,Yes,Not Placed
+1128,Riya Mehta,ECE,1,77,81,1,Yes,Not Placed
+1129,Neha Mehta,ECE,5,73,76,0,Yes,Placed
+1130,Ayaan Gupta,Civil,4,79,63,0,Yes,Placed
+1131,Amit Desai,Civil,1,63,85,0,Yes,Not Placed
+1132,Shaurya Pandya,IT,8,61,84,1,No,Placed
+1133,Jiya Gupta,CSE,6,92,88,0,Yes,Placed
+1134,Saanvi Modi,ECE,5,93,69,0,Yes,Not Placed
+1135,Ira Gupta,Civil,8,60,88,0,Yes,Not Placed
+1136,Shaurya Patel,CSE,8,88,100,0,Yes,Not Placed
+1137,Reyansh Parmar,IT,8,73,83,0,Yes,Placed
+1138,Aadhya Chauhan,IT,3,79,81,1,Yes,Not Placed
+1139,Pari Singh,CSE,8,80,85,0,Yes,Placed
+1140,Vivaan Shah,ECE,5,88,100,1,Yes,Not Placed
+1141,Shaurya Chauhan,IT,6,75,72,1,Yes,Not Placed
+1142,Neha Chauhan,Mechanical,7,94,84,0,Yes,Placed
+1143,Saanvi Pandya,Mechanical,2,78,74,1,Yes,Not Placed
+1144,Reyansh Gupta,Mechanical,4,83,77,0,Yes,Not Placed
+1145,Kavya Chauhan,IT,2,62,82,0,Yes,Not Placed
+1146,Karan Trivedi,CSE,3,100,95,1,Yes,Not Placed
+1147,Yash Modi,ECE,4,81,100,0,Yes,Not Placed
+1148,Kavya Verma,Mechanical,7,84,86,1,Yes,Placed
+1149,Nisha Rana,IT,7,51,78,0,Yes,Not Placed
+1150,Shaurya Patel,Mechanical,4,62,100,0,Yes,Not Placed
+1151,Ananya Dave,CSE,3,91,78,0,Yes,Placed
+1152,Aarav Bhatt,Mechanical,5,78,76,0,Yes,Placed
+1153,Kavya Mehta,CSE,8,47,64,0,Yes,Not Placed
+1154,Atharv Gupta,CSE,8,89,96,0,Yes,Placed
+1155,Atharv Mehta,IT,2,66,92,0,Yes,Not Placed
+1156,Riya Nair,CSE,2,94,100,0,Yes,Placed
+1157,Arjun Trivedi,CSE,6,73,68,1,Yes,Not Placed
+1158,Ishaan Nair,CSE,3,77,97,2,Yes,Placed
+1159,Priya Kumar,IT,2,91,83,2,Yes,Not Placed
+1160,Yash Singh,Mechanical,1,61,90,1,Yes,Placed
+1161,Atharv Mehta,CSE,4,60,66,1,Yes,Not Placed
+1162,Ira Pandya,ECE,4,71,97,0,Yes,Not Placed
+1163,Jiya Joshi,Mechanical,5,86,90,0,No,Placed
+1164,Ishaan Patel,CSE,2,55,82,1,Yes,Placed
+1165,Reyansh Gupta,CSE,6,51,88,0,Yes,Not Placed
+1166,Kavya Prajapati,Mechanical,6,86,74,0,Yes,Not Placed
+1167,Atharv Dave,Mechanical,4,66,76,0,Yes,Not Placed
+1168,Saanvi Dave,IT,2,69,77,2,Yes,Placed
+1169,Yash Modi,Mechanical,5,48,63,0,Yes,Not Placed
+1170,Krishna Parmar,CSE,6,64,91,0,Yes,Not Placed
+1171,Riya Trivedi,IT,3,74,94,0,Yes,Placed
+1172,Ira Verma,ECE,3,87,75,2,Yes,Not Placed
+1173,Dev Trivedi,CSE,5,63,85,1,Yes,Placed
+1174,Jiya Pandya,Mechanical,3,97,79,1,Yes,Not Placed
+1175,Ayaan Desai,IT,4,64,85,1,Yes,Not Placed
+1176,Anika Patel,Mechanical,3,64,76,1,Yes,Not Placed
+1177,Shaurya Rana,IT,3,96,73,0,Yes,Not Placed
+1178,Jiya Parmar,IT,6,77,93,0,Yes,Not Placed
+1179,Reyansh Bhatt,CSE,4,66,81,0,No,Placed
+1180,Aditya Kumar,CSE,4,72,100,0,No,Placed
+1181,Nisha Bhatt,Mechanical,6,93,82,0,Yes,Not Placed
+1182,Krishna Bhatt,CSE,3,95,73,1,Yes,Placed
+1183,Arjun Verma,CSE,1,63,94,1,Yes,Not Placed
+1184,Pari Modi,CSE,7,73,88,0,Yes,Placed
+1185,Aarav Singh,CSE,1,75,89,0,Yes,Not Placed
+1186,Ananya Nair,Mechanical,5,60,94,0,Yes,Not Placed
+1187,Aadhya Prajapati,IT,3,73,75,0,No,Placed
+1188,Meera Shah,Civil,2,74,81,2,No,Placed
+1189,Rahul Kumar,CSE,1,90,80,0,Yes,Placed
+1190,Diya Trivedi,ECE,8,91,69,1,Yes,Placed
+1191,Aarav Pandya,IT,4,69,79,0,Yes,Not Placed
+1192,Yash Joshi,IT,3,71,95,1,Yes,Not Placed
+1193,Aarav Mehta,Mechanical,6,83,84,0,No,Not Placed
+1194,Aditya Dave,Civil,1,66,69,0,Yes,Placed
+1195,Meera Desai,Mechanical,5,82,66,0,Yes,Not Placed
+1196,Rahul Desai,CSE,4,73,99,1,Yes,Not Placed
+1197,Diya Gupta,CSE,5,60,81,0,Yes,Not Placed
+1198,Priya Bhatt,ECE,1,61,76,0,Yes,Not Placed
+1199,Vivaan Desai,CSE,8,94,79,0,Yes,Placed
+1200,Shaurya Modi,ECE,2,72,67,0,Yes,Placed
+1201,Jiya Singh,IT,6,97,96,0,Yes,Not Placed
+1202,Atharv Parmar,IT,6,67,78,1,Yes,Not Placed
+1203,Pari Verma,Mechanical,3,78,96,1,Yes,Not Placed
+1204,Saanvi Mehta,ECE,2,100,83,2,Yes,Placed
+1205,Yash Patel,CSE,3,59,96,0,Yes,Not Placed
+1206,Ayaan Joshi,CSE,7,47,85,1,Yes,Not Placed
+1207,Shaurya Mehta,ECE,8,92,91,1,Yes,Not Placed
+1208,Aarav Nair,IT,8,62,89,0,Yes,Not Placed
+1209,Jiya Mehta,CSE,2,74,88,0,Yes,Placed
+1210,Shaurya Verma,IT,5,66,85,1,Yes,Not Placed
+1211,Dev Nair,Mechanical,2,78,80,1,Yes,Not Placed
+1212,Rahul Gupta,Mechanical,6,61,100,0,Yes,Not Placed
+1213,Aadhya Desai,IT,4,71,73,0,Yes,Not Placed
+1214,Nisha Dave,IT,6,80,82,0,Yes,Placed
+1215,Aarav Kumar,CSE,6,60,82,0,Yes,Not Placed
+1216,Aditya Kumar,IT,8,64,86,1,Yes,Not Placed
+1217,Karan Mehta,CSE,4,69,78,0,Yes,Placed
+1218,Saanvi Mehta,IT,3,54,85,1,Yes,Placed
+1219,Myra Pandya,ECE,5,68,80,0,Yes,Not Placed
+1220,Aditya Prajapati,CSE,2,76,66,0,No,Not Placed
+1221,Jiya Modi,CSE,1,68,82,0,Yes,Not Placed
+1222,Arjun Chauhan,CSE,5,70,71,1,No,Placed
+1223,Anika Nair,Mechanical,7,74,65,0,Yes,Not Placed
+1224,Atharv Parmar,ECE,5,65,83,0,No,Not Placed
+1225,Anika Trivedi,CSE,7,84,87,1,No,Not Placed
+1226,Yash Pandya,Mechanical,2,94,87,0,No,Placed
+1227,Pari Patel,IT,4,67,88,2,Yes,Not Placed
+1228,Myra Gupta,IT,5,81,63,1,Yes,Not Placed
+1229,Reyansh Iyer,Civil,3,71,68,1,Yes,Not Placed
+1230,Nisha Mehta,CSE,1,79,100,0,Yes,Placed
+1231,Priya Mehta,CSE,1,96,72,0,Yes,Placed
+1232,Rahul Rana,IT,8,81,88,0,No,Placed
+1233,Aarav Parmar,CSE,5,49,75,1,Yes,Not Placed
+1234,Reyansh Gupta,ECE,3,80,83,0,Yes,Placed
+1235,Ayaan Pandya,CSE,3,91,76,0,Yes,Not Placed
+1236,Rahul Dave,CSE,1,71,88,2,Yes,Not Placed
+1237,Aadhya Chauhan,CSE,8,88,83,0,Yes,Placed
+1238,Riya Singh,IT,1,64,78,0,Yes,Placed
+1239,Nisha Patel,CSE,7,53,71,2,Yes,Not Placed
+1240,Riya Mehta,CSE,2,76,85,1,Yes,Not Placed
+1241,Shaurya Dave,Mechanical,3,49,70,1,Yes,Not Placed
+1242,Ishaan Singh,CSE,3,71,86,0,Yes,Placed
+1243,Saanvi Joshi,IT,7,92,100,0,Yes,Placed
+1244,Ananya Verma,CSE,1,47,96,0,Yes,Not Placed
+1245,Rahul Iyer,IT,3,56,89,1,No,Placed
+1246,Dev Bhatt,CSE,3,60,81,2,Yes,Not Placed
+1247,Rahul Iyer,ECE,3,73,63,1,Yes,Placed
+1248,Shaurya Rana,CSE,2,69,69,0,Yes,Not Placed
+1249,Arjun Prajapati,Mechanical,8,94,95,0,Yes,Not Placed
+1250,Dev Rana,Civil,4,87,74,0,Yes,Not Placed
+1251,Arjun Nair,CSE,4,81,75,1,Yes,Not Placed
+1252,Yash Bhatt,CSE,4,76,80,0,Yes,Placed
+1253,Shaurya Chauhan,CSE,8,80,71,0,Yes,Placed
+1254,Anika Joshi,ECE,3,62,70,0,Yes,Not Placed
+1255,Shaurya Joshi,CSE,3,86,81,1,Yes,Placed
+1256,Jiya Kumar,Mechanical,3,58,73,1,Yes,Not Placed
+1257,Nisha Dave,Mechanical,3,86,75,1,Yes,Not Placed
+1258,Yash Mehta,Mechanical,1,91,74,1,Yes,Placed
+1259,Meera Shah,IT,5,77,87,0,Yes,Not Placed
+1260,Pari Gupta,Civil,1,72,80,1,Yes,Not Placed
+1261,Ananya Mehta,CSE,2,80,80,0,Yes,Placed
+1262,Ayaan Dave,IT,2,34,88,1,Yes,Not Placed
+1263,Atharv Modi,CSE,3,78,81,2,Yes,Placed
+1264,Dev Mehta,Civil,7,72,79,1,No,Not Placed
+1265,Dev Pandya,IT,5,73,87,1,Yes,Placed
+1266,Myra Desai,Mechanical,8,84,89,1,Yes,Not Placed
+1267,Reyansh Trivedi,CSE,3,73,81,1,Yes,Placed
+1268,Myra Desai,Civil,8,58,83,1,Yes,Not Placed
+1269,Saanvi Mehta,IT,1,72,74,0,Yes,Not Placed
+1270,Kavya Patel,IT,5,75,73,1,Yes,Placed
+1271,Priya Shah,Civil,7,76,90,0,Yes,Placed
+1272,Ayaan Desai,IT,5,76,86,1,Yes,Not Placed
+1273,Karan Shah,IT,8,89,87,0,Yes,Placed
+1274,Aadhya Gupta,IT,3,59,85,0,No,Not Placed
+1275,Anika Nair,CSE,1,76,82,0,No,Not Placed
+1276,Karan Prajapati,CSE,7,92,89,0,Yes,Placed
+1277,Karan Modi,CSE,1,50,91,0,Yes,Not Placed
+1278,Jiya Verma,CSE,7,77,91,0,Yes,Placed
+1279,Rahul Bhatt,Mechanical,6,66,81,0,No,Not Placed
+1280,Amit Bhatt,IT,7,69,96,0,Yes,Placed
+1281,Kavya Patel,IT,4,61,84,1,Yes,Placed
+1282,Pari Desai,IT,8,72,88,0,Yes,Placed
+1283,Meera Joshi,IT,2,100,85,0,Yes,Placed
+1284,Krishna Joshi,ECE,4,56,84,1,No,Not Placed
+1285,Riya Gupta,Civil,1,58,75,0,Yes,Not Placed
+1286,Yash Rana,Civil,7,56,89,0,Yes,Placed
+1287,Shaurya Patel,IT,6,98,100,0,Yes,Placed
+1288,Aarav Prajapati,CSE,7,68,78,3,Yes,Not Placed
+1289,Dev Verma,IT,7,74,83,0,Yes,Placed
+1290,Meera Mehta,IT,3,68,78,0,No,Placed
+1291,Aditya Dave,IT,1,61,77,0,Yes,Not Placed
+1292,Arjun Shah,ECE,8,71,97,0,Yes,Placed
+1293,Aadhya Pandya,IT,4,100,75,1,Yes,Placed
+1294,Neha Shah,CSE,1,93,77,1,Yes,Not Placed
+1295,Nisha Dave,CSE,8,62,66,0,Yes,Not Placed
+1296,Karan Pandya,IT,8,83,74,2,Yes,Not Placed
+1297,Ishaan Parmar,CSE,4,62,65,1,Yes,Not Placed
+1298,Atharv Dave,CSE,7,49,88,0,Yes,Not Placed
+1299,Myra Singh,ECE,1,88,100,0,Yes,Placed
+1300,Ira Iyer,IT,1,90,78,0,Yes,Not Placed
+1301,Ira Singh,CSE,3,89,65,1,Yes,Not Placed
+1302,Rahul Mehta,IT,6,67,91,1,Yes,Placed
+1303,Karan Verma,Mechanical,2,72,75,0,No,Placed
+1304,Atharv Verma,CSE,1,84,95,0,Yes,Not Placed
+1305,Jiya Bhatt,Mechanical,6,79,79,0,No,Placed
+1306,Nisha Chauhan,Civil,7,68,76,1,Yes,Not Placed
+1307,Amit Prajapati,IT,6,51,80,1,Yes,Not Placed
+1308,Neha Iyer,ECE,7,76,90,0,Yes,Placed
+1309,Ishaan Trivedi,CSE,7,89,80,0,Yes,Placed
+1310,Vivaan Mehta,Civil,5,57,77,0,Yes,Not Placed
+1311,Saanvi Chauhan,IT,5,83,80,1,Yes,Not Placed
+1312,Reyansh Rana,Civil,7,79,69,0,Yes,Not Placed
+1313,Ira Joshi,IT,3,85,86,0,Yes,Placed
+1314,Ananya Prajapati,CSE,1,86,64,0,Yes,Not Placed
+1315,Anika Prajapati,CSE,7,64,78,1,Yes,Placed
+1316,Rahul Modi,ECE,3,51,90,3,Yes,Not Placed
+1317,Saanvi Prajapati,IT,8,67,85,1,Yes,Placed
+1318,Ayaan Nair,CSE,4,86,88,0,Yes,Not Placed
+1319,Ishaan Trivedi,ECE,7,66,81,0,Yes,Not Placed
+1320,Amit Pandya,Mechanical,1,64,94,1,Yes,Not Placed
+1321,Neha Pandya,IT,6,49,91,0,No,Not Placed
+1322,Nisha Chauhan,IT,4,99,86,1,Yes,Not Placed
+1323,Amit Modi,CSE,4,86,91,0,Yes,Placed
+1324,Saanvi Verma,Mechanical,3,85,90,1,Yes,Not Placed
+1325,Yash Dave,CSE,8,88,78,1,Yes,Not Placed
+1326,Pari Nair,Mechanical,4,82,69,2,Yes,Not Placed
+1327,Krishna Dave,IT,7,71,86,0,Yes,Not Placed
+1328,Kavya Verma,IT,4,72,87,0,Yes,Not Placed
+1329,Rahul Iyer,CSE,1,68,93,0,Yes,Not Placed
+1330,Aditya Trivedi,CSE,8,100,73,0,Yes,Not Placed
+1331,Ayaan Kumar,Mechanical,2,82,73,1,Yes,Not Placed
+1332,Vivaan Joshi,IT,3,68,87,1,Yes,Not Placed
+1333,Myra Nair,IT,7,81,81,1,Yes,Not Placed
+1334,Anika Bhatt,Civil,8,60,63,0,Yes,Placed
+1335,Dev Mehta,Civil,8,95,86,0,Yes,Placed
+1336,Yash Iyer,Mechanical,4,65,63,0,Yes,Not Placed
+1337,Riya Shah,CSE,7,81,73,1,Yes,Not Placed
+1338,Ira Kumar,IT,3,89,96,0,Yes,Placed
+1339,Myra Shah,Mechanical,6,79,100,0,No,Not Placed
+1340,Anika Pandya,IT,5,75,70,1,Yes,Not Placed
+1341,Priya Mehta,CSE,1,74,79,0,Yes,Placed
+1342,Yash Parmar,Mechanical,4,73,82,0,Yes,Placed
+1343,Ayaan Dave,IT,4,66,100,0,Yes,Not Placed
+1344,Aadhya Gupta,IT,3,68,77,0,Yes,Not Placed
+1345,Saanvi Singh,Civil,3,95,77,1,Yes,Not Placed
+1346,Jiya Singh,ECE,5,72,97,1,No,Not Placed
+1347,Dev Pandya,IT,1,63,78,0,Yes,Placed
+1348,Aditya Trivedi,IT,2,67,89,0,Yes,Not Placed
+1349,Priya Gupta,IT,7,89,67,0,Yes,Not Placed
+1350,Vivaan Shah,CSE,3,83,80,0,Yes,Not Placed
+1351,Anika Iyer,Mechanical,5,82,65,0,Yes,Not Placed
+1352,Ayaan Desai,Mechanical,5,70,71,0,Yes,Placed
+1353,Arjun Gupta,CSE,5,82,90,1,Yes,Not Placed
+1354,Aarav Gupta,CSE,4,65,82,0,Yes,Not Placed
+1355,Pari Chauhan,Mechanical,4,70,79,0,Yes,Placed
+1356,Neha Verma,CSE,7,88,75,0,Yes,Placed
+1357,Priya Singh,IT,8,86,80,1,Yes,Not Placed
+1358,Dev Singh,IT,3,60,85,1,Yes,Not Placed
+1359,Anika Chauhan,ECE,6,62,92,0,Yes,Not Placed
+1360,Ishaan Gupta,CSE,8,76,56,1,Yes,Placed
+1361,Reyansh Pandya,ECE,1,98,74,1,Yes,Not Placed
+1362,Nisha Mehta,IT,7,47,84,1,Yes,Not Placed
+1363,Amit Mehta,ECE,4,78,81,0,Yes,Not Placed
+1364,Priya Shah,CSE,8,55,86,1,Yes,Placed
+1365,Pari Nair,IT,5,65,85,0,Yes,Not Placed
+1366,Priya Rana,IT,7,69,79,1,No,Not Placed
+1367,Dev Singh,CSE,2,68,77,1,Yes,Not Placed
+1368,Krishna Nair,CSE,2,67,80,2,Yes,Not Placed
+1369,Priya Modi,CSE,8,74,93,0,Yes,Placed
+1370,Rahul Bhatt,CSE,5,67,75,0,Yes,Not Placed
+1371,Karan Singh,CSE,5,54,81,1,Yes,Not Placed
+1372,Riya Trivedi,Civil,2,85,84,0,Yes,Not Placed
+1373,Amit Prajapati,IT,2,85,98,0,Yes,Not Placed
+1374,Anika Modi,Mechanical,7,86,79,0,No,Not Placed
+1375,Atharv Desai,Civil,3,52,92,0,Yes,Not Placed
+1376,Yash Mehta,CSE,5,78,94,1,Yes,Not Placed
+1377,Aditya Pandya,ECE,3,83,81,1,Yes,Not Placed
+1378,Kavya Rana,Mechanical,3,60,80,1,Yes,Placed
+1379,Rahul Prajapati,ECE,2,74,79,1,Yes,Not Placed
+1380,Arjun Kumar,IT,8,72,79,1,Yes,Not Placed
+1381,Ayaan Gupta,IT,8,100,91,0,Yes,Placed
+1382,Yash Pandya,CSE,1,100,84,1,Yes,Not Placed
+1383,Ananya Singh,IT,3,51,84,0,Yes,Not Placed
+1384,Ira Chauhan,Civil,5,100,71,0,Yes,Placed
+1385,Reyansh Prajapati,Civil,4,61,72,0,Yes,Placed
+1386,Riya Parmar,CSE,6,88,100,0,Yes,Placed
+1387,Aarav Kumar,ECE,3,88,80,0,Yes,Not Placed
+1388,Nisha Parmar,CSE,1,60,74,0,Yes,Placed
+1389,Aadhya Mehta,Civil,3,81,96,2,Yes,Not Placed
+1390,Shaurya Bhatt,CSE,5,72,85,0,Yes,Not Placed
+1391,Meera Iyer,Civil,2,82,88,0,Yes,Placed
+1392,Arjun Mehta,Mechanical,7,77,81,0,Yes,Placed
+1393,Pari Gupta,CSE,1,91,79,1,Yes,Not Placed
+1394,Aarav Nair,CSE,1,75,80,0,Yes,Placed
+1395,Kavya Patel,Mechanical,5,72,68,0,Yes,Not Placed
+1396,Aditya Chauhan,CSE,5,89,81,0,Yes,Not Placed
+1397,Priya Dave,IT,3,82,85,1,Yes,Not Placed
+1398,Aadhya Trivedi,Civil,3,84,100,0,Yes,Placed
+1399,Jiya Chauhan,IT,1,65,83,0,Yes,Not Placed
+1400,Atharv Rana,IT,6,59,59,1,Yes,Not Placed
+1401,Aarav Modi,IT,4,66,81,2,No,Not Placed
+1402,Anika Pandya,CSE,1,65,100,1,Yes,Not Placed
+1403,Rahul Singh,Civil,4,85,91,1,Yes,Not Placed
+1404,Kavya Mehta,CSE,8,88,74,0,Yes,Not Placed
+1405,Diya Parmar,CSE,3,72,88,0,No,Placed
+1406,Vivaan Bhatt,CSE,8,94,75,0,Yes,Placed
+1407,Neha Trivedi,Civil,3,93,68,0,Yes,Not Placed
+1408,Amit Dave,CSE,2,77,79,0,Yes,Placed
+1409,Vivaan Mehta,Mechanical,3,62,83,1,Yes,Not Placed
+1410,Riya Parmar,ECE,3,96,63,0,Yes,Not Placed
+1411,Aarav Nair,Mechanical,1,73,71,2,Yes,Not Placed
+1412,Reyansh Nair,Civil,5,76,82,0,Yes,Not Placed
+1413,Ira Shah,Mechanical,3,69,78,1,Yes,Placed
+1414,Neha Bhatt,Civil,6,62,86,0,Yes,Placed
+1415,Nisha Patel,CSE,4,53,70,1,Yes,Not Placed
+1416,Ishaan Joshi,Mechanical,4,83,89,0,Yes,Not Placed
+1417,Saanvi Mehta,IT,4,63,70,1,No,Not Placed
+1418,Nisha Singh,IT,2,100,98,1,No,Not Placed
+1419,Karan Desai,Mechanical,6,59,65,0,Yes,Not Placed
+1420,Aarav Pandya,Civil,1,56,71,0,Yes,Placed
+1421,Shaurya Nair,ECE,6,81,86,0,Yes,Placed
+1422,Dev Patel,IT,8,95,99,0,No,Placed
+1423,Aarav Patel,IT,7,75,85,0,Yes,Not Placed
+1424,Reyansh Shah,IT,4,82,88,0,Yes,Not Placed
+1425,Karan Iyer,IT,3,48,82,1,Yes,Not Placed
+1426,Jiya Dave,IT,7,65,72,0,Yes,Not Placed
+1427,Yash Joshi,CSE,3,59,77,1,Yes,Not Placed
+1428,Shaurya Dave,CSE,4,47,70,1,Yes,Not Placed
+1429,Ishaan Shah,Mechanical,7,76,69,0,Yes,Placed
+1430,Neha Dave,IT,8,43,86,1,Yes,Not Placed
+1431,Jiya Pandya,Civil,8,55,71,1,Yes,Not Placed
+1432,Arjun Singh,ECE,1,66,85,0,Yes,Placed
+1433,Nisha Nair,CSE,8,62,69,3,No,Placed
+1434,Karan Dave,CSE,1,80,85,0,Yes,Not Placed
+1435,Saanvi Patel,CSE,5,78,77,1,Yes,Placed
+1436,Saanvi Joshi,Civil,8,87,96,0,Yes,Placed
+1437,Arjun Mehta,CSE,6,85,85,0,Yes,Placed
+1438,Neha Verma,IT,8,90,94,0,Yes,Not Placed
+1439,Kavya Kumar,Civil,3,74,74,0,No,Not Placed
+1440,Kavya Iyer,Civil,3,78,83,0,Yes,Not Placed
+1441,Aditya Bhatt,CSE,3,81,72,0,Yes,Not Placed
+1442,Saanvi Desai,CSE,3,76,78,0,Yes,Placed
+1443,Karan Kumar,CSE,6,68,79,1,Yes,Not Placed
+1444,Vivaan Desai,CSE,4,69,75,0,Yes,Not Placed
+1445,Aarav Trivedi,CSE,6,63,70,0,Yes,Not Placed
+1446,Aditya Kumar,IT,4,80,68,0,Yes,Not Placed
+1447,Anika Parmar,Civil,3,73,59,2,Yes,Not Placed
+1448,Rahul Iyer,IT,2,65,71,0,Yes,Not Placed
+1449,Anika Shah,ECE,5,65,88,0,Yes,Not Placed
+1450,Aditya Iyer,CSE,8,57,66,0,Yes,Placed
+1451,Aarav Patel,Mechanical,7,88,68,0,Yes,Not Placed
+1452,Krishna Bhatt,ECE,3,75,100,0,Yes,Placed
+1453,Saanvi Kumar,Mechanical,4,62,76,0,No,Not Placed
+1454,Aadhya Desai,Civil,6,85,85,0,Yes,Placed
+1455,Diya Shah,CSE,5,66,88,0,Yes,Not Placed
+1456,Amit Desai,CSE,1,54,89,0,Yes,Not Placed
+1457,Diya Parmar,CSE,5,88,67,0,Yes,Placed
+1458,Myra Chauhan,IT,1,66,80,0,No,Not Placed
+1459,Kavya Singh,Civil,1,68,66,0,Yes,Not Placed
+1460,Ishaan Iyer,IT,6,75,100,0,Yes,Not Placed
+1461,Meera Gupta,Mechanical,1,90,66,0,Yes,Not Placed
+1462,Saanvi Mehta,IT,3,74,72,0,Yes,Not Placed
+1463,Ishaan Pandya,CSE,5,57,72,2,Yes,Not Placed
+1464,Kavya Modi,CSE,6,82,67,0,No,Placed
+1465,Aadhya Gupta,ECE,4,67,96,1,Yes,Placed
+1466,Kavya Nair,ECE,1,100,100,0,Yes,Placed
+1467,Ishaan Iyer,IT,7,74,77,0,Yes,Placed
+1468,Saanvi Pandya,CSE,8,43,69,0,Yes,Placed
+1469,Reyansh Mehta,ECE,8,79,60,0,Yes,Placed
+1470,Saanvi Verma,CSE,6,100,80,0,Yes,Not Placed
+1471,Neha Rana,Civil,4,96,79,0,Yes,Placed
+1472,Dev Chauhan,CSE,8,100,75,0,Yes,Placed
+1473,Arjun Mehta,CSE,4,60,84,0,No,Placed
+1474,Jiya Mehta,IT,2,87,86,0,Yes,Placed
+1475,Yash Trivedi,IT,7,64,85,1,No,Not Placed
+1476,Aditya Modi,IT,3,77,79,0,Yes,Not Placed
+1477,Ira Rana,IT,8,56,71,0,Yes,Not Placed
+1478,Amit Iyer,Civil,3,65,89,1,Yes,Not Placed
+1479,Aadhya Iyer,IT,7,65,82,0,Yes,Not Placed
+1480,Jiya Rana,IT,5,87,91,0,Yes,Placed
+1481,Reyansh Rana,IT,4,85,90,2,Yes,Not Placed
+1482,Nisha Joshi,CSE,3,78,68,1,Yes,Not Placed
+1483,Yash Gupta,IT,7,55,68,0,Yes,Not Placed
+1484,Ira Modi,CSE,1,70,74,0,Yes,Not Placed
+1485,Dev Patel,ECE,4,64,71,1,Yes,Not Placed
+1486,Shaurya Rana,CSE,3,86,90,0,Yes,Placed
+1487,Pari Chauhan,Civil,5,90,86,1,Yes,Not Placed
+1488,Reyansh Joshi,IT,3,89,93,0,Yes,Not Placed
+1489,Aditya Gupta,Mechanical,6,63,86,0,Yes,Not Placed
+1490,Ananya Gupta,IT,4,36,84,2,Yes,Not Placed
+1491,Myra Kumar,CSE,2,49,94,4,Yes,Not Placed
+1492,Kavya Iyer,Mechanical,2,94,87,1,Yes,Not Placed
+1493,Myra Nair,ECE,6,68,83,1,Yes,Not Placed
+1494,Ira Modi,Mechanical,3,63,97,2,Yes,Placed
+1495,Ishaan Singh,IT,3,97,83,1,Yes,Not Placed
+1496,Ananya Verma,ECE,6,92,79,0,No,Placed
+1497,Ayaan Rana,Mechanical,3,74,74,0,Yes,Not Placed
+1498,Anika Iyer,ECE,4,70,89,1,Yes,Not Placed
+1499,Anika Prajapati,CSE,2,72,94,0,Yes,Placed
+1500,Yash Verma,ECE,3,77,81,1,Yes,Not Placed
+1501,Karan Kumar,ECE,6,96,95,0,Yes,Not Placed
+1502,Kavya Bhatt,Civil,5,80,62,1,No,Not Placed
+1503,Arjun Pandya,IT,8,84,81,1,Yes,Not Placed
+1504,Nisha Verma,IT,7,90,82,1,Yes,Not Placed
+1505,Rahul Verma,Mechanical,1,58,75,0,Yes,Not Placed
+1506,Shaurya Singh,IT,4,85,100,0,Yes,Placed
+1507,Ishaan Modi,ECE,3,70,81,0,Yes,Placed
+1508,Anika Dave,IT,5,39,78,1,Yes,Not Placed
+1509,Diya Chauhan,CSE,3,44,82,0,Yes,Placed
+1510,Vivaan Mehta,ECE,8,60,62,0,Yes,Not Placed
+1511,Vivaan Shah,CSE,3,81,74,2,No,Not Placed
+1512,Meera Dave,CSE,5,76,92,0,No,Placed
+1513,Karan Shah,ECE,1,77,76,0,Yes,Placed
+1514,Aditya Trivedi,ECE,8,100,74,0,Yes,Not Placed
+1515,Kavya Modi,Mechanical,8,56,95,0,Yes,Not Placed
+1516,Pari Desai,CSE,7,74,95,0,Yes,Not Placed
+1517,Priya Modi,CSE,3,78,87,1,Yes,Not Placed
+1518,Vivaan Kumar,Civil,1,64,77,0,Yes,Not Placed
+1519,Dev Patel,CSE,6,74,80,0,Yes,Placed
+1520,Saanvi Dave,CSE,4,52,74,1,No,Not Placed
+1521,Priya Bhatt,CSE,8,94,72,0,Yes,Not Placed
+1522,Aadhya Prajapati,IT,6,64,72,0,Yes,Not Placed
+1523,Priya Desai,Mechanical,5,100,76,1,Yes,Not Placed
+1524,Ishaan Iyer,Mechanical,8,74,72,0,Yes,Placed
+1525,Neha Mehta,ECE,7,88,66,0,Yes,Not Placed
+1526,Anika Prajapati,CSE,4,73,84,0,Yes,Not Placed
+1527,Anika Parmar,IT,1,74,84,1,No,Placed
+1528,Aditya Parmar,IT,1,66,99,0,Yes,Not Placed
+1529,Saanvi Singh,CSE,4,76,75,0,Yes,Placed
+1530,Aadhya Modi,CSE,5,78,85,1,Yes,Not Placed
+1531,Amit Nair,CSE,1,63,85,0,Yes,Not Placed
+1532,Reyansh Kumar,CSE,2,72,79,0,Yes,Placed
+1533,Rahul Prajapati,IT,6,65,89,0,Yes,Not Placed
+1534,Dev Iyer,ECE,7,100,90,1,Yes,Placed
+1535,Ananya Patel,CSE,1,73,85,1,Yes,Not Placed
+1536,Neha Joshi,IT,5,96,79,0,Yes,Placed
+1537,Rahul Verma,Mechanical,1,71,78,0,Yes,Not Placed
+1538,Pari Desai,ECE,6,78,68,0,Yes,Not Placed
+1539,Priya Desai,Mechanical,7,56,74,1,Yes,Placed
+1540,Aadhya Dave,IT,7,68,76,0,Yes,Not Placed
+1541,Dev Parmar,Mechanical,5,77,71,0,Yes,Not Placed
+1542,Yash Gupta,CSE,6,96,86,1,Yes,Placed
+1543,Krishna Dave,IT,8,77,94,1,Yes,Placed
+1544,Karan Parmar,CSE,5,93,73,2,Yes,Not Placed
+1545,Riya Mehta,IT,4,83,85,2,Yes,Not Placed
+1546,Anika Rana,IT,7,97,72,1,Yes,Placed
+1547,Nisha Prajapati,CSE,5,73,79,0,No,Placed
+1548,Atharv Shah,Mechanical,7,100,75,1,Yes,Not Placed
+1549,Nisha Singh,CSE,5,67,88,0,Yes,Not Placed
+1550,Vivaan Rana,CSE,7,63,75,0,Yes,Not Placed
+1551,Pari Chauhan,CSE,1,57,92,3,Yes,Placed
+1552,Dev Desai,IT,1,100,80,2,Yes,Not Placed
+1553,Atharv Desai,CSE,1,85,76,0,Yes,Placed
+1554,Ishaan Pandya,IT,5,69,69,1,Yes,Not Placed
+1555,Yash Patel,CSE,6,91,85,1,Yes,Placed
+1556,Ira Joshi,Mechanical,2,84,91,1,Yes,Not Placed
+1557,Ayaan Trivedi,Civil,2,100,85,1,Yes,Not Placed
+1558,Ayaan Chauhan,IT,7,52,100,1,No,Placed
+1559,Jiya Gupta,ECE,7,70,96,1,Yes,Not Placed
+1560,Priya Chauhan,Mechanical,6,68,79,0,Yes,Not Placed
+1561,Aarav Shah,Civil,4,46,79,0,Yes,Not Placed
+1562,Shaurya Joshi,ECE,4,89,87,1,Yes,Not Placed
+1563,Nisha Dave,Mechanical,1,70,74,0,Yes,Not Placed
+1564,Nisha Iyer,Civil,2,84,94,0,Yes,Placed
+1565,Kavya Iyer,Mechanical,8,100,86,1,No,Placed
+1566,Aadhya Nair,IT,3,69,85,0,Yes,Not Placed
+1567,Amit Singh,CSE,6,68,89,1,Yes,Placed
+1568,Ira Shah,CSE,6,76,99,0,Yes,Placed
+1569,Priya Prajapati,IT,3,88,84,0,Yes,Placed
+1570,Rahul Verma,IT,2,66,81,0,Yes,Not Placed
+1571,Meera Modi,IT,6,65,97,0,Yes,Not Placed
+1572,Dev Dave,IT,1,89,92,1,Yes,Placed
+1573,Atharv Chauhan,IT,4,79,79,1,Yes,Not Placed
+1574,Anika Singh,Mechanical,8,45,82,0,Yes,Not Placed
+1575,Neha Bhatt,CSE,6,57,84,0,Yes,Placed
+1576,Diya Verma,CSE,7,95,86,0,Yes,Placed
+1577,Aadhya Pandya,Mechanical,1,80,68,1,Yes,Not Placed
+1578,Atharv Gupta,Mechanical,2,63,67,0,Yes,Not Placed
+1579,Arjun Bhatt,Civil,3,72,73,0,Yes,Not Placed
+1580,Diya Modi,Mechanical,3,74,72,1,Yes,Placed
+1581,Myra Chauhan,Mechanical,2,84,76,1,No,Not Placed
+1582,Nisha Verma,CSE,8,55,88,0,Yes,Not Placed
+1583,Anika Mehta,IT,2,62,80,1,Yes,Not Placed
+1584,Aarav Prajapati,CSE,6,78,84,0,No,Placed
+1585,Jiya Pandya,ECE,5,73,70,1,Yes,Not Placed
+1586,Ira Iyer,Civil,5,82,77,0,Yes,Placed
+1587,Diya Desai,CSE,2,57,88,0,Yes,Not Placed
+1588,Aarav Modi,IT,3,79,88,0,Yes,Not Placed
+1589,Atharv Desai,CSE,5,89,75,1,Yes,Placed
+1590,Ishaan Patel,CSE,3,81,84,2,No,Not Placed
+1591,Ira Pandya,CSE,6,76,100,2,Yes,Not Placed
+1592,Neha Rana,CSE,1,73,82,0,Yes,Placed
+1593,Aadhya Modi,Civil,1,62,75,0,Yes,Not Placed
+1594,Reyansh Gupta,IT,6,73,80,1,No,Not Placed
+1595,Kavya Patel,Mechanical,5,92,83,1,Yes,Not Placed
+1596,Aadhya Trivedi,ECE,1,72,80,1,Yes,Not Placed
+1597,Ayaan Kumar,CSE,8,62,82,1,Yes,Placed
+1598,Anika Iyer,CSE,1,67,68,0,Yes,Not Placed
+1599,Priya Parmar,Mechanical,8,77,72,2,Yes,Not Placed
+1600,Karan Iyer,CSE,6,69,81,1,Yes,Not Placed
+1601,Meera Chauhan,Civil,8,81,80,1,Yes,Not Placed
+1602,Jiya Singh,CSE,8,81,76,0,Yes,Placed
+1603,Riya Pandya,ECE,3,86,80,0,Yes,Not Placed
+1604,Anika Kumar,Mechanical,7,94,83,0,Yes,Placed
+1605,Shaurya Parmar,CSE,2,88,91,0,Yes,Not Placed
+1606,Ira Singh,CSE,4,61,81,1,Yes,Placed
+1607,Saanvi Bhatt,Civil,2,61,86,1,Yes,Placed
+1608,Aditya Mehta,CSE,4,73,77,0,Yes,Placed
+1609,Anika Kumar,IT,7,68,88,1,Yes,Not Placed
+1610,Karan Rana,IT,4,58,86,0,No,Not Placed
+1611,Riya Gupta,CSE,1,68,91,1,Yes,Not Placed
+1612,Yash Nair,Mechanical,3,67,89,0,Yes,Not Placed
+1613,Aadhya Parmar,Mechanical,7,65,88,1,Yes,Placed
+1614,Arjun Parmar,IT,5,70,81,2,No,Not Placed
+1615,Reyansh Trivedi,Mechanical,5,90,84,0,Yes,Placed
+1616,Karan Kumar,CSE,4,77,93,0,Yes,Not Placed
+1617,Jiya Kumar,CSE,3,100,75,1,Yes,Placed
+1618,Riya Modi,IT,5,76,76,1,Yes,Placed
+1619,Aarav Mehta,Civil,6,70,84,1,No,Not Placed
+1620,Shaurya Patel,CSE,8,74,86,0,No,Placed
+1621,Anika Singh,CSE,5,78,74,0,Yes,Placed
+1622,Yash Chauhan,IT,8,80,81,0,Yes,Placed
+1623,Meera Parmar,Mechanical,7,100,81,1,Yes,Not Placed
+1624,Nisha Chauhan,CSE,1,62,60,0,Yes,Not Placed
+1625,Atharv Parmar,IT,4,86,80,0,No,Placed
+1626,Ishaan Rana,ECE,4,77,80,0,Yes,Placed
+1627,Aditya Singh,IT,1,52,80,3,Yes,Not Placed
+1628,Riya Shah,CSE,2,85,96,0,Yes,Placed
+1629,Krishna Gupta,CSE,7,92,70,1,Yes,Placed
+1630,Kavya Dave,IT,3,62,74,1,Yes,Not Placed
+1631,Ishaan Pandya,IT,2,74,56,0,Yes,Placed
+1632,Saanvi Dave,Mechanical,3,50,77,1,Yes,Placed
+1633,Ishaan Patel,ECE,3,56,78,1,Yes,Not Placed
+1634,Vivaan Prajapati,ECE,2,89,77,0,Yes,Placed
+1635,Yash Patel,Civil,1,67,93,0,No,Placed
+1636,Diya Mehta,IT,7,58,91,0,Yes,Not Placed
+1637,Dev Nair,IT,7,77,83,0,Yes,Placed
+1638,Rahul Kumar,Civil,4,67,78,0,Yes,Not Placed
+1639,Riya Singh,CSE,5,67,92,1,Yes,Placed
+1640,Aarav Bhatt,ECE,8,84,82,0,Yes,Placed
+1641,Rahul Kumar,Mechanical,7,58,74,0,Yes,Placed
+1642,Diya Dave,CSE,1,61,65,0,Yes,Not Placed
+1643,Diya Patel,IT,8,76,78,1,Yes,Not Placed
+1644,Dev Joshi,CSE,1,88,90,0,Yes,Not Placed
+1645,Arjun Iyer,CSE,1,91,100,0,Yes,Placed
+1646,Ishaan Bhatt,IT,4,65,83,0,Yes,Not Placed
+1647,Saanvi Patel,CSE,6,87,74,0,Yes,Placed
+1648,Yash Verma,Mechanical,1,63,70,0,Yes,Placed
+1649,Ishaan Nair,Civil,3,100,88,1,Yes,Placed
+1650,Anika Patel,Mechanical,3,58,64,0,Yes,Placed
+1651,Rahul Rana,CSE,4,93,88,0,Yes,Not Placed
+1652,Neha Bhatt,CSE,8,65,90,0,Yes,Placed
+1653,Ira Nair,CSE,3,100,86,0,Yes,Placed
+1654,Ishaan Joshi,CSE,2,82,80,0,Yes,Not Placed
+1655,Aadhya Bhatt,Civil,1,60,88,0,Yes,Not Placed
+1656,Anika Modi,IT,2,67,84,1,Yes,Not Placed
+1657,Amit Bhatt,CSE,2,85,74,1,Yes,Not Placed
+1658,Dev Trivedi,Mechanical,5,89,100,0,Yes,Placed
+1659,Priya Gupta,IT,4,73,78,2,Yes,Not Placed
+1660,Saanvi Prajapati,CSE,4,75,90,1,Yes,Not Placed
+1661,Arjun Trivedi,CSE,7,85,58,0,Yes,Placed
+1662,Kavya Bhatt,ECE,5,76,95,2,Yes,Not Placed
+1663,Nisha Desai,Mechanical,2,56,97,1,Yes,Placed
+1664,Neha Shah,CSE,4,63,82,0,Yes,Not Placed
+1665,Neha Modi,Civil,3,77,88,1,Yes,Not Placed
+1666,Saanvi Kumar,Mechanical,7,91,88,1,Yes,Not Placed
+1667,Aadhya Dave,Mechanical,3,97,76,0,Yes,Not Placed
+1668,Kavya Parmar,CSE,2,85,87,0,No,Placed
+1669,Riya Trivedi,CSE,6,78,74,2,Yes,Not Placed
+1670,Amit Rana,Mechanical,4,84,76,0,Yes,Placed
+1671,Kavya Mehta,CSE,1,65,93,0,Yes,Not Placed
+1672,Arjun Gupta,ECE,6,72,92,0,Yes,Placed
+1673,Ayaan Parmar,Mechanical,2,62,75,0,Yes,Placed
+1674,Nisha Kumar,CSE,7,57,75,0,Yes,Not Placed
+1675,Rahul Gupta,Mechanical,7,79,76,2,Yes,Placed
+1676,Vivaan Prajapati,Civil,3,77,89,0,Yes,Not Placed
+1677,Pari Pandya,ECE,5,84,72,1,Yes,Not Placed
+1678,Krishna Chauhan,IT,5,82,86,1,Yes,Not Placed
+1679,Ananya Mehta,Mechanical,6,77,89,0,Yes,Placed
+1680,Arjun Prajapati,IT,1,82,81,0,Yes,Placed
+1681,Aditya Shah,ECE,3,73,92,1,Yes,Not Placed
+1682,Ananya Joshi,Mechanical,2,80,79,1,Yes,Not Placed
+1683,Kavya Patel,ECE,6,64,80,0,Yes,Not Placed
+1684,Atharv Chauhan,CSE,1,79,72,1,Yes,Not Placed
+1685,Yash Iyer,CSE,5,83,92,0,Yes,Not Placed
+1686,Meera Modi,CSE,6,65,74,0,No,Not Placed
+1687,Saanvi Rana,IT,8,75,85,1,Yes,Placed
+1688,Meera Parmar,IT,3,65,81,0,Yes,Placed
+1689,Yash Singh,IT,1,67,71,2,Yes,Not Placed
+1690,Anika Verma,IT,6,58,76,1,No,Placed
+1691,Jiya Trivedi,Mechanical,1,92,96,0,Yes,Placed
+1692,Ananya Bhatt,Civil,1,89,84,0,Yes,Placed
+1693,Diya Joshi,CSE,8,82,72,1,Yes,Not Placed
+1694,Kavya Modi,ECE,7,100,85,1,Yes,Placed
+1695,Meera Pandya,ECE,6,71,81,0,No,Placed
+1696,Atharv Verma,IT,7,100,100,0,Yes,Placed
+1697,Jiya Kumar,CSE,1,71,85,1,Yes,Not Placed
+1698,Krishna Gupta,Mechanical,1,78,78,1,Yes,Not Placed
+1699,Ira Nair,Civil,3,68,96,0,Yes,Not Placed
+1700,Aarav Trivedi,ECE,1,79,64,0,Yes,Not Placed
+1701,Nisha Joshi,Civil,8,86,83,2,Yes,Not Placed
+1702,Shaurya Modi,Civil,1,72,100,0,Yes,Placed
+1703,Ayaan Desai,IT,5,99,81,0,Yes,Placed
+1704,Ananya Bhatt,ECE,7,77,65,0,Yes,Not Placed
+1705,Aarav Trivedi,IT,6,78,78,0,Yes,Placed
+1706,Vivaan Gupta,Civil,2,61,97,2,No,Not Placed
+1707,Ishaan Singh,CSE,4,80,86,0,Yes,Placed
+1708,Myra Singh,IT,5,72,74,0,Yes,Placed
+1709,Riya Rana,Mechanical,7,65,75,1,Yes,Not Placed
+1710,Nisha Chauhan,CSE,4,63,76,1,Yes,Not Placed
+1711,Yash Parmar,Mechanical,3,100,86,1,Yes,Not Placed
+1712,Myra Nair,IT,7,70,95,1,Yes,Placed
+1713,Ishaan Dave,Civil,8,54,93,0,Yes,Not Placed
+1714,Neha Pandya,Mechanical,4,64,87,0,Yes,Placed
+1715,Shaurya Singh,CSE,1,73,69,1,Yes,Not Placed
+1716,Pari Desai,Mechanical,5,82,69,0,Yes,Not Placed
+1717,Ayaan Gupta,CSE,8,82,87,0,Yes,Placed
+1718,Atharv Mehta,ECE,8,83,69,0,Yes,Placed
+1719,Aadhya Nair,ECE,4,65,80,1,Yes,Not Placed
+1720,Atharv Parmar,Mechanical,2,79,85,0,Yes,Not Placed
+1721,Amit Verma,CSE,5,62,71,1,Yes,Not Placed
+1722,Yash Rana,CSE,7,65,72,1,Yes,Not Placed
+1723,Reyansh Patel,ECE,8,61,81,0,Yes,Not Placed
+1724,Yash Parmar,IT,1,57,87,0,Yes,Not Placed
+1725,Rahul Mehta,IT,3,89,93,0,Yes,Placed
+1726,Shaurya Patel,CSE,4,84,88,0,Yes,Placed
+1727,Vivaan Joshi,CSE,1,88,83,0,Yes,Placed
+1728,Myra Shah,Mechanical,8,75,75,0,Yes,Not Placed
+1729,Jiya Chauhan,CSE,1,85,71,1,Yes,Not Placed
+1730,Ishaan Verma,IT,6,49,77,1,Yes,Not Placed
+1731,Amit Modi,Civil,8,86,86,0,Yes,Placed
+1732,Vivaan Shah,CSE,6,76,85,0,Yes,Placed
+1733,Nisha Mehta,ECE,7,83,61,2,Yes,Placed
+1734,Riya Prajapati,CSE,3,79,74,1,Yes,Not Placed
+1735,Amit Shah,Mechanical,7,60,94,1,Yes,Placed
+1736,Meera Nair,ECE,4,53,83,0,Yes,Placed
+1737,Saanvi Joshi,Mechanical,1,64,68,0,No,Not Placed
+1738,Jiya Modi,CSE,3,82,100,1,Yes,Not Placed
+1739,Pari Prajapati,IT,3,84,82,1,Yes,Placed
+1740,Krishna Rana,Mechanical,5,55,86,0,No,Not Placed
+1741,Reyansh Patel,CSE,3,60,86,0,Yes,Not Placed
+1742,Shaurya Mehta,CSE,4,64,78,2,Yes,Not Placed
+1743,Aadhya Bhatt,CSE,4,69,75,1,Yes,Not Placed
+1744,Reyansh Patel,Civil,3,55,100,0,Yes,Not Placed
+1745,Arjun Verma,ECE,6,54,92,0,Yes,Not Placed
+1746,Shaurya Chauhan,ECE,3,62,90,0,Yes,Not Placed
+1747,Aarav Modi,ECE,7,75,88,0,Yes,Placed
+1748,Aadhya Rana,IT,3,57,72,1,Yes,Not Placed
+1749,Kavya Singh,IT,7,72,95,2,Yes,Not Placed
+1750,Pari Dave,IT,3,89,74,1,Yes,Not Placed
+1751,Anika Trivedi,ECE,1,56,85,0,Yes,Not Placed
+1752,Krishna Modi,CSE,2,71,66,0,No,Not Placed
+1753,Myra Joshi,Mechanical,7,88,62,0,Yes,Not Placed
+1754,Dev Chauhan,Mechanical,7,68,85,1,No,Not Placed
+1755,Nisha Nair,CSE,2,66,74,1,Yes,Not Placed
+1756,Ananya Joshi,IT,5,90,62,0,Yes,Not Placed
+1757,Rahul Modi,CSE,5,70,87,1,Yes,Not Placed
+1758,Ishaan Pandya,Civil,2,89,100,0,Yes,Placed
+1759,Pari Patel,Civil,4,80,96,1,Yes,Not Placed
+1760,Pari Chauhan,Civil,6,69,79,0,Yes,Not Placed
+1761,Nisha Kumar,CSE,8,81,82,0,Yes,Not Placed
+1762,Ayaan Desai,CSE,7,78,91,0,Yes,Placed
+1763,Ira Patel,CSE,1,88,93,2,Yes,Placed
+1764,Atharv Mehta,CSE,2,66,79,0,Yes,Not Placed
+1765,Aarav Pandya,CSE,4,75,82,0,Yes,Placed
+1766,Aditya Patel,CSE,2,73,85,2,No,Not Placed
+1767,Dev Desai,Civil,5,84,88,0,Yes,Placed
+1768,Karan Patel,CSE,1,60,81,2,Yes,Placed
+1769,Reyansh Mehta,CSE,1,88,81,1,Yes,Not Placed
+1770,Priya Iyer,Mechanical,1,81,96,0,Yes,Placed
+1771,Pari Joshi,IT,3,56,94,1,No,Placed
+1772,Aditya Gupta,Mechanical,7,91,87,0,No,Placed
+1773,Krishna Gupta,ECE,2,100,99,2,Yes,Placed
+1774,Neha Dave,Mechanical,8,88,78,1,No,Placed
+1775,Pari Patel,ECE,3,94,98,0,Yes,Placed
+1776,Shaurya Bhatt,IT,1,75,87,2,Yes,Not Placed
+1777,Anika Iyer,ECE,3,51,100,0,Yes,Not Placed
+1778,Saanvi Desai,IT,6,48,70,2,Yes,Not Placed
+1779,Meera Singh,CSE,1,78,75,0,Yes,Placed
+1780,Jiya Bhatt,IT,1,66,86,1,Yes,Not Placed
+1781,Shaurya Trivedi,CSE,7,61,86,0,Yes,Not Placed
+1782,Ishaan Pandya,Mechanical,5,73,100,3,No,Not Placed
+1783,Kavya Chauhan,CSE,3,83,75,0,No,Placed
+1784,Jiya Iyer,CSE,7,54,91,1,Yes,Placed
+1785,Dev Parmar,CSE,7,68,94,0,Yes,Placed
+1786,Aditya Prajapati,Mechanical,3,95,89,2,Yes,Not Placed
+1787,Rahul Dave,CSE,5,59,72,0,Yes,Not Placed
+1788,Reyansh Modi,ECE,1,86,96,2,Yes,Placed
+1789,Kavya Singh,Mechanical,3,67,94,1,Yes,Not Placed
+1790,Arjun Iyer,CSE,5,82,88,1,Yes,Not Placed
+1791,Shaurya Joshi,Mechanical,2,89,84,2,Yes,Not Placed
+1792,Anika Rana,CSE,8,84,84,0,Yes,Not Placed
+1793,Riya Modi,CSE,8,87,81,0,Yes,Placed
+1794,Karan Shah,ECE,3,58,88,3,No,Not Placed
+1795,Nisha Patel,Civil,4,90,82,0,Yes,Placed
+1796,Rahul Modi,CSE,2,62,74,1,Yes,Not Placed
+1797,Diya Patel,IT,5,78,72,0,Yes,Placed
+1798,Priya Desai,CSE,1,78,74,1,Yes,Not Placed
+1799,Riya Kumar,IT,4,81,84,0,Yes,Placed
+1800,Nisha Kumar,ECE,5,79,82,0,Yes,Placed
+1801,Atharv Kumar,ECE,5,62,84,0,Yes,Not Placed
+1802,Karan Modi,ECE,5,55,87,0,Yes,Not Placed
+1803,Arjun Bhatt,CSE,2,86,76,3,Yes,Not Placed
+1804,Reyansh Gupta,ECE,7,77,97,0,Yes,Placed
+1805,Ishaan Mehta,ECE,6,90,79,0,Yes,Placed
+1806,Amit Mehta,ECE,7,73,78,1,Yes,Not Placed
+1807,Neha Nair,CSE,4,54,87,2,Yes,Placed
+1808,Vivaan Desai,IT,8,88,64,0,Yes,Not Placed
+1809,Amit Verma,IT,4,69,74,0,Yes,Not Placed
+1810,Arjun Parmar,CSE,7,79,92,0,Yes,Not Placed
+1811,Ishaan Patel,CSE,2,65,65,0,Yes,Placed
+1812,Dev Patel,IT,2,97,93,1,Yes,Not Placed
+1813,Kavya Parmar,ECE,5,62,97,1,Yes,Not Placed
+1814,Myra Gupta,CSE,5,69,78,2,Yes,Not Placed
+1815,Diya Mehta,Mechanical,6,76,85,1,Yes,Not Placed
+1816,Myra Bhatt,IT,3,59,93,2,Yes,Placed
+1817,Aditya Bhatt,Mechanical,7,79,77,1,No,Not Placed
+1818,Aadhya Verma,IT,3,97,91,1,No,Placed
+1819,Reyansh Iyer,IT,5,67,75,0,Yes,Placed
+1820,Ayaan Trivedi,ECE,8,80,77,0,Yes,Placed
+1821,Priya Shah,Civil,5,36,74,1,Yes,Not Placed
+1822,Saanvi Gupta,IT,6,73,85,0,Yes,Placed
+1823,Arjun Trivedi,IT,8,70,94,2,Yes,Not Placed
+1824,Ananya Nair,ECE,8,63,80,0,Yes,Not Placed
+1825,Jiya Dave,ECE,4,89,69,1,Yes,Not Placed
+1826,Ayaan Patel,CSE,4,69,71,0,Yes,Placed
+1827,Vivaan Gupta,IT,2,72,86,0,Yes,Placed
+1828,Reyansh Joshi,IT,5,69,100,1,Yes,Placed
+1829,Nisha Bhatt,Civil,8,47,86,1,No,Placed
+1830,Nisha Trivedi,IT,4,58,78,1,Yes,Not Placed
+1831,Ira Iyer,IT,3,87,90,0,Yes,Not Placed
+1832,Ayaan Gupta,Civil,1,44,80,1,No,Placed
+1833,Anika Prajapati,IT,4,63,78,0,Yes,Placed
+1834,Rahul Nair,CSE,2,68,72,1,Yes,Not Placed
+1835,Anika Kumar,CSE,8,98,96,0,Yes,Not Placed
+1836,Rahul Gupta,CSE,5,85,57,0,Yes,Not Placed
+1837,Shaurya Singh,CSE,2,66,90,0,Yes,Not Placed
+1838,Priya Parmar,IT,1,92,77,2,Yes,Placed
+1839,Reyansh Rana,Mechanical,7,64,78,0,Yes,Not Placed
+1840,Dev Verma,ECE,8,88,99,0,Yes,Not Placed
+1841,Yash Patel,CSE,7,55,75,0,No,Not Placed
+1842,Vivaan Singh,IT,1,89,75,1,Yes,Placed
+1843,Ananya Verma,CSE,1,68,81,0,Yes,Not Placed
+1844,Aadhya Rana,Civil,2,60,86,1,Yes,Not Placed
+1845,Yash Shah,CSE,7,71,78,0,Yes,Placed
+1846,Amit Bhatt,ECE,7,78,66,0,Yes,Not Placed
+1847,Riya Prajapati,CSE,7,67,73,1,Yes,Not Placed
+1848,Reyansh Nair,ECE,1,82,95,0,No,Not Placed
+1849,Pari Mehta,IT,2,66,83,1,Yes,Not Placed
+1850,Ananya Parmar,Mechanical,8,83,87,0,Yes,Placed
+1851,Ishaan Desai,CSE,8,80,79,0,Yes,Not Placed
+1852,Neha Desai,Civil,6,73,75,0,Yes,Placed
+1853,Dev Bhatt,IT,1,68,99,0,Yes,Not Placed
+1854,Jiya Pandya,Mechanical,1,76,80,0,Yes,Placed
+1855,Ishaan Joshi,Mechanical,1,82,78,0,Yes,Not Placed
+1856,Ananya Chauhan,Civil,6,100,93,0,Yes,Placed
+1857,Meera Kumar,CSE,7,87,75,2,Yes,Not Placed
+1858,Riya Bhatt,CSE,6,88,76,0,Yes,Placed
+1859,Riya Prajapati,CSE,3,100,82,3,Yes,Not Placed
+1860,Aadhya Verma,CSE,7,81,82,0,No,Placed
+1861,Aditya Kumar,IT,1,81,85,0,Yes,Placed
+1862,Riya Kumar,Civil,7,84,100,1,No,Not Placed
+1863,Kavya Singh,Civil,8,60,85,0,Yes,Not Placed
+1864,Yash Gupta,IT,6,68,58,0,Yes,Not Placed
+1865,Saanvi Mehta,ECE,8,67,85,0,Yes,Placed
+1866,Amit Pandya,Mechanical,5,83,82,1,Yes,Not Placed
+1867,Neha Bhatt,Civil,4,72,82,1,Yes,Not Placed
+1868,Nisha Singh,CSE,3,76,84,1,Yes,Not Placed
+1869,Anika Shah,IT,8,89,82,2,No,Placed
+1870,Aarav Joshi,Mechanical,6,86,81,0,Yes,Placed
+1871,Aadhya Kumar,CSE,2,72,88,1,Yes,Not Placed
+1872,Saanvi Patel,IT,8,65,77,0,Yes,Not Placed
+1873,Krishna Parmar,Civil,1,90,73,0,Yes,Placed
+1874,Jiya Prajapati,Civil,5,85,100,0,Yes,Placed
+1875,Karan Kumar,Civil,2,52,75,0,Yes,Placed
+1876,Dev Bhatt,Mechanical,6,70,83,1,Yes,Not Placed
+1877,Ira Prajapati,CSE,4,76,67,1,Yes,Not Placed
+1878,Ira Modi,CSE,4,85,83,0,Yes,Placed
+1879,Ananya Iyer,IT,6,87,73,0,Yes,Placed
+1880,Myra Gupta,IT,7,78,78,2,Yes,Not Placed
+1881,Diya Rana,IT,4,82,92,0,Yes,Placed
+1882,Aarav Iyer,ECE,8,75,87,0,No,Not Placed
+1883,Myra Pandya,IT,4,65,88,0,Yes,Not Placed
+1884,Anika Chauhan,ECE,2,70,64,1,No,Not Placed
+1885,Aditya Desai,CSE,1,74,100,1,Yes,Not Placed
+1886,Ananya Prajapati,CSE,2,74,70,0,Yes,Not Placed
+1887,Ananya Prajapati,CSE,6,48,97,1,Yes,Not Placed
+1888,Amit Mehta,CSE,5,68,92,1,Yes,Not Placed
+1889,Atharv Desai,Mechanical,3,75,88,1,Yes,Not Placed
+1890,Atharv Nair,IT,4,70,73,0,Yes,Not Placed
+1891,Vivaan Modi,CSE,7,71,84,1,Yes,Placed
+1892,Aarav Parmar,Mechanical,5,81,77,0,No,Not Placed
+1893,Priya Joshi,IT,1,59,82,1,Yes,Placed
+1894,Ayaan Shah,CSE,1,51,80,1,Yes,Not Placed
+1895,Pari Singh,CSE,4,69,62,1,Yes,Not Placed
+1896,Myra Bhatt,CSE,4,85,93,0,Yes,Placed
+1897,Ananya Trivedi,ECE,7,98,81,1,Yes,Not Placed
+1898,Pari Joshi,CSE,5,85,77,0,Yes,Not Placed
+1899,Jiya Desai,CSE,7,53,76,0,Yes,Not Placed
+1900,Pari Verma,CSE,5,71,86,0,Yes,Not Placed
+1901,Vivaan Chauhan,IT,3,78,73,1,Yes,Not Placed
+1902,Saanvi Trivedi,CSE,6,76,59,2,Yes,Not Placed
+1903,Arjun Patel,Mechanical,5,82,86,0,Yes,Placed
+1904,Aarav Chauhan,CSE,6,61,87,0,Yes,Not Placed
+1905,Aditya Parmar,ECE,2,75,80,1,Yes,Not Placed
+1906,Ishaan Nair,IT,6,80,71,0,No,Placed
+1907,Neha Chauhan,IT,3,86,83,0,Yes,Not Placed
+1908,Meera Mehta,CSE,7,63,67,3,Yes,Placed
+1909,Ishaan Trivedi,Mechanical,7,69,72,1,Yes,Placed
+1910,Reyansh Trivedi,Mechanical,5,36,74,0,Yes,Not Placed
+1911,Atharv Singh,CSE,8,65,90,0,Yes,Not Placed
+1912,Atharv Bhatt,CSE,5,67,78,0,Yes,Not Placed
+1913,Amit Pandya,Civil,1,60,78,0,No,Not Placed
+1914,Arjun Parmar,IT,5,76,100,0,No,Not Placed
+1915,Ira Parmar,CSE,7,73,86,0,Yes,Not Placed
+1916,Ananya Parmar,CSE,1,42,85,1,Yes,Not Placed
+1917,Myra Shah,ECE,1,77,78,1,Yes,Not Placed
+1918,Aadhya Mehta,ECE,3,61,76,0,Yes,Not Placed
+1919,Yash Modi,IT,7,81,60,1,Yes,Not Placed
+1920,Krishna Gupta,Civil,5,56,92,0,Yes,Not Placed
+1921,Aadhya Shah,IT,8,74,86,0,Yes,Placed
+1922,Karan Dave,CSE,7,70,80,1,Yes,Not Placed
+1923,Rahul Iyer,IT,5,78,81,1,Yes,Not Placed
+1924,Aadhya Verma,IT,6,76,89,0,Yes,Not Placed
+1925,Anika Desai,CSE,3,70,66,0,No,Placed
+1926,Aditya Trivedi,CSE,1,52,76,0,Yes,Not Placed
+1927,Saanvi Desai,IT,4,53,71,0,Yes,Not Placed
+1928,Arjun Bhatt,ECE,5,66,100,1,Yes,Not Placed
+1929,Diya Gupta,CSE,2,74,91,0,Yes,Placed
+1930,Anika Kumar,IT,2,65,60,1,Yes,Not Placed
+1931,Rahul Trivedi,ECE,1,83,67,0,Yes,Not Placed
+1932,Nisha Prajapati,ECE,6,70,81,0,Yes,Not Placed
+1933,Nisha Rana,Mechanical,8,60,77,0,Yes,Not Placed
+1934,Arjun Singh,Mechanical,7,70,69,0,No,Placed
+1935,Aarav Singh,ECE,4,77,100,1,Yes,Not Placed
+1936,Vivaan Joshi,CSE,5,79,85,1,Yes,Placed
+1937,Ira Pandya,IT,8,100,87,1,No,Placed
+1938,Aadhya Mehta,ECE,5,65,75,0,Yes,Not Placed
+1939,Krishna Bhatt,CSE,3,73,89,0,Yes,Placed
+1940,Priya Mehta,CSE,3,80,78,0,Yes,Not Placed
+1941,Diya Trivedi,CSE,6,74,79,2,Yes,Not Placed
+1942,Ayaan Dave,IT,4,67,88,1,Yes,Placed
+1943,Ira Desai,IT,7,52,66,0,Yes,Not Placed
+1944,Riya Rana,CSE,7,67,98,1,No,Not Placed
+1945,Vivaan Rana,Mechanical,1,59,84,0,Yes,Not Placed
+1946,Ayaan Joshi,Civil,6,50,95,1,Yes,Not Placed
+1947,Meera Kumar,CSE,3,63,71,1,Yes,Not Placed
+1948,Reyansh Bhatt,Civil,5,59,73,0,No,Not Placed
+1949,Myra Bhatt,CSE,3,82,70,0,Yes,Not Placed
+1950,Rahul Modi,Civil,3,82,85,1,Yes,Not Placed
+1951,Kavya Verma,Civil,3,61,83,0,Yes,Not Placed
+1952,Priya Joshi,CSE,1,70,77,3,Yes,Not Placed
+1953,Atharv Joshi,Mechanical,7,48,72,0,No,Not Placed
+1954,Shaurya Desai,Civil,2,67,69,1,No,Not Placed
+1955,Vivaan Pandya,Civil,4,80,82,2,Yes,Not Placed
+1956,Aditya Bhatt,Civil,2,86,77,0,Yes,Placed
+1957,Aarav Singh,IT,2,64,75,0,Yes,Not Placed
+1958,Atharv Verma,CSE,3,89,97,0,Yes,Placed
+1959,Shaurya Chauhan,Mechanical,8,53,81,0,Yes,Not Placed
+1960,Saanvi Verma,ECE,8,57,95,0,Yes,Not Placed
+1961,Diya Verma,ECE,4,84,77,1,Yes,Placed
+1962,Karan Rana,IT,5,97,84,2,No,Placed
+1963,Ananya Mehta,IT,8,81,81,1,Yes,Not Placed
+1964,Ananya Mehta,CSE,2,73,65,1,Yes,Not Placed
+1965,Ayaan Parmar,ECE,8,43,96,0,Yes,Not Placed
+1966,Aditya Chauhan,CSE,1,46,81,0,Yes,Not Placed
+1967,Nisha Parmar,ECE,2,76,89,3,Yes,Not Placed
+1968,Reyansh Desai,Mechanical,3,69,74,1,Yes,Not Placed
+1969,Diya Gupta,IT,1,59,80,3,Yes,Not Placed
+1970,Yash Joshi,IT,7,75,73,0,Yes,Not Placed
+1971,Reyansh Trivedi,CSE,7,76,94,1,No,Not Placed
+1972,Meera Patel,Civil,4,87,85,0,No,Not Placed
+1973,Diya Mehta,ECE,7,76,86,0,Yes,Placed
+1974,Reyansh Pandya,IT,7,91,96,0,Yes,Placed
+1975,Aarav Modi,CSE,7,74,94,0,Yes,Not Placed
+1976,Dev Iyer,CSE,7,72,90,3,Yes,Not Placed
+1977,Aditya Chauhan,IT,5,89,68,0,No,Not Placed
+1978,Jiya Rana,Civil,1,60,75,0,No,Placed
+1979,Anika Verma,ECE,8,100,72,0,Yes,Not Placed
+1980,Riya Desai,CSE,5,79,89,0,Yes,Not Placed
+1981,Nisha Parmar,Mechanical,8,79,84,2,Yes,Not Placed
+1982,Reyansh Dave,IT,8,81,68,0,Yes,Not Placed
+1983,Karan Kumar,Mechanical,2,100,80,0,No,Placed
+1984,Diya Chauhan,CSE,4,85,67,0,Yes,Not Placed
+1985,Nisha Desai,ECE,2,52,81,0,Yes,Not Placed
+1986,Karan Pandya,Civil,1,94,65,0,Yes,Not Placed
+1987,Neha Modi,CSE,8,69,87,0,Yes,Not Placed
+1988,Kavya Shah,ECE,8,76,86,0,Yes,Placed
+1989,Dev Modi,Civil,8,56,100,1,Yes,Not Placed
+1990,Vivaan Singh,CSE,8,81,90,0,Yes,Placed
+1991,Riya Iyer,CSE,6,65,78,0,Yes,Placed
+1992,Vivaan Singh,ECE,5,75,90,0,Yes,Not Placed
+1993,Riya Singh,CSE,8,70,68,0,Yes,Not Placed
+1994,Karan Joshi,CSE,5,100,72,2,Yes,Not Placed
+1995,Krishna Pandya,IT,6,100,85,0,Yes,Placed
+1996,Anika Rana,Mechanical,2,75,60,0,Yes,Not Placed
+1997,Shaurya Iyer,CSE,6,75,82,0,Yes,Not Placed
+1998,Rahul Patel,CSE,7,69,72,0,Yes,Not Placed
+1999,Kavya Parmar,Mechanical,6,89,83,1,Yes,Not Placed
+2000,Shaurya Trivedi,IT,4,69,71,0,No,Not Placed
